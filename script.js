@@ -24,9 +24,4 @@ if(newerror.length>0){
 }
 
 })
-cancel.addEventListener("click", () => {
-    console.log(123344);
-    form.reset();
-    errorDiv.innerText = "";
-}
-)
+
